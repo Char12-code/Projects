@@ -1,0 +1,388 @@
+[
+    {"name": "The Fool",
+    "category": "Major Arcana",
+    "upright": {"love": "new relationship, fun light romance", "career": "new job, new business, breath of fresh air at work", "Finance": "spontaneous spending, financial opportunities"}, 
+    "inverted": {"love": "new relationship, fun light romance", "career": "new job, new business, breath of fresh air at work", "finance": "spontaneous spending, financial opportunities"}},
+
+    {"name": "The Magician",
+    "category": "Major Arcana", 
+    "upright": {"love": "creating opportunities for love, being proactive in love", "career": "harnessing career opportunities, determination and drive", "finance": "pursuing financial opportunity, making use of skills"},
+    "inverted": {"love": "romantic illusion, romantic trickery, low willpower for love", "career": "wasted talent, unwillingness to take chances, workplace deception", "finance": "missed financial opportunity, not using skills for financial gain"}},
+
+    {"name": "The High Priestess", 
+    "category": "Major Arcana", 
+    "upright": {"love": "remain patient in love, calm exterior with inner passion, intimacy", "career": "education, creative inspiration, guide, mentor, use instincts", "finance": "keeping your financial situation private"},
+    "inverted": {"love": "ignoring intuition in romance, hiding true self with lover", "career": "feeling isolated, lacking project information, rejecting intuition", "finance": "lack of information, not knowing all the facts"}},
+
+    {"name": "The Empress", 
+    "category": "Major Arcana", 
+    "upright": {"love": "nurturing, supportive lover, sensual committed relationship", "career": "nurturing colleagues, freshening up office, creative period at work", "finance": "material comfort, giving, sharing material wealth, generosity"},
+    "inverted": {"love": "lack of self worth, jealous, clingy lover, lack of progress in love", "career": "feeling insecure at work, not growing skills, stale job", "finance": "feeling insecure about finances, despite being stable"}},
+
+    {"name": "The Emperor", 
+    "category": "Major Arcana", 
+    "upright": {"love": "traditional relationship, use logic in love, unexpressed emotions", "career": "creating processes, structure, discipline, routine, mentor", "finance": "being disciplined about money"},
+    "inverted": {"love": "power struggle, competitiveness, overbearing partner", "career": "low concentration or focus, bureaucracy, bad boss", "finance": "not disciplined about money, out of control finances"}},
+
+    {"name": "The Hierophant", 
+    "category": "Major Arcana", 
+    "upright": {"love": "safe, traditional partners, avoiding taboo, spiritual love", "career": "success in work groups, education, teamwork, mentor", "finance": "keeping your money safe, traditional financial institutions"},
+    "inverted": {"love": "stale relationship, values not aligned, breaking taboo", "career": "bureaucracy, stifling, confined workplace, peer pressure", "finance": "new financial institutions, taking risks with finances"}},
+
+    {"name": "The Lovers", 
+    "category": "Major Arcana", 
+    "upright": {"love": "balanced, loving, supportive relationship, choices about love", "career": "business partnership, romance at work, choices about career", "finance": "mutually exclusive financial choices"},
+    "inverted": {"love": "cold, detached partner, too many suitors, imbalance in relationship", "career": "conflicts between colleagues, romance at work leading to trouble", "finance": "impulsive financial choices, not responsible about finances"}},
+
+    {"name": "The Chariot", 
+    "category": "Major Arcana", 
+    "upright": {"love": "taking action on love, taking control of love life", "career": "strong ambitions, motivation and control at work", "finance": "determination to reach financial goals"},
+    "inverted": {"love": "obsession with finding love, forcefulness in love", "career": "lack of ambition, too aggressive in career goals", "finance": "rushing into or hesitant about financial decisions"}},
+
+    {"name": "Strength", 
+    "category": "Major Arcana", 
+    "upright": {"love": "confidence drawing lovers, strong caring relationship", "career": "self mastery at work, bold career moves, taking big steps", "finance": "large purchases, controlled spending"},
+    "inverted": {"love": "self esteem issues, insecurity, negativity about love", "career": "impostor syndrome, insecurity, fear of making big moves", "finance": "compulsive spending, hesitancy about spending"}},
+
+    {"name": "The Hermit", 
+    "category": "Major Arcana", 
+    "upright": {"love": "pause in love life to introspect, self-understanding in love", "career": "contemplating next steps in career, searching for purpose in career", "finance": "contemplating role of finances in happiness, less focus on material things"},
+    "inverted": {"love": "romantic rejection, loneliness, feeling distant from partner", "career": "realigning career to internal goals, outcast at work, working alone", "finance": "better understanding of material situation"}},
+
+    {"name": "Wheel of Fortune", 
+    "category": "Major Arcana", 
+    "upright": {"love": "relationship changes, navigating change with partner, making adjustments", "career": "luck in career, opportunities present, adapting to changes at work", "finance": "changes in material situation, being flexible with finances"},
+    "inverted": {"love": "external events affecting relationship, love life out of control", "career": "failure to adapt at work, forcing past solutions", "finance": "unexpected financial changes, preparation"}}, 
+
+    {"name": "Justice", 
+    "category": "Major Arcana", 
+    "upright": {"love": "romantic efforts rewarded, compromise, treating partner fairly", "career": "integrity at work rewarded, remaining accountable and fair", "finance": "balancing finances, balancing giving and taking"},
+    "inverted": {"love": "unfair romantic expectations, blaming partner unfairly", "career": "unfair work environment, dishonesty in career, not being accountable", "finance": "untrustworthy financial dealings, avoiding financial accountability"}}, 
+
+    {"name": "The Hanged Man", 
+    "category": "Major Arcana", 
+    "upright": {"love": "love can't be rushed, avoid romantic pressure, sacrifice for love", "career": "uncertainty about career, waiting, forced break, thinking of next steps", "finance": "change in perspective about finances"},
+    "inverted": {"love": "new perspectives on love, changes in romantic life", "career": "new career move not working, procrastination, stalling for time", "finance": "indecision, failed investment, wasted financial sacrifice"}},
+
+    {"name": "Death", 
+    "category": "Major Arcana", 
+    "upright": {"love": "changes in relationship, changes in romantic life, ending relationship", "career": "job transition, career transition, leaving unfulfilling career", "finance": "financial loss, adapting to financial loss, changing views of money"},
+    "inverted": {"love": "resisting change in relationship, failure to change negative emotional patterns", "career": "repeating negative patterns at work, remaining at unfulfilling job, lack of growth", "finance": "failure to adapt to financial loss, continuing unhealthy financial habits"}},
+
+    {"name": "Temperance", 
+    "category": "Major Arcana", 
+    "upright": {"love": "careful and considerate with love, being patient with love or lover", "career": "success from patience and moderation, steady and slow progress", "finance": "diligent saving, slow and steady growth"},
+    "inverted": {"love": "going to extremes for love, all or nothing romances, impatience", "career": "work-life imbalance, all or nothing at job, rushed job, reckless decisions", "finance": "failure to balance long term needs with short term happiness"}},
+
+    {"name": "The Devil", 
+    "category": "Major Arcana", 
+    "upright": {"love": "lust, hedonism, selfish disregard for lover's feelings, obsession", "career": "feeling trapped in job, blaming colleagues, self-sabotage", "finance": "bad financial habits"},
+    "inverted": {"love": "feeling more in control of love life, ending co-dependency", "career": "more accountability in career path, feeling empowered at job", "finance": "breaking bad financial habits, feeling independent financially"}},
+
+    {"name": "The Tower", 
+    "category": "Major Arcana", 
+    "upright": {"love": "breakup, weak relationships ending, foundational shift in view of love", "career": "sudden job loss, workplace disruption, workplace chaos", "finance": "financial loss, wake up call regarding finances"},
+    "inverted": {"love": "making adjustments in love, leaving a weak relationship", "career": "surviving layoffs, avoiding taking risks in career", "finance": "surviving financial disaster, repeating financial troubles"}},
+
+    {"name": "The Star", 
+    "category": "Major Arcana", 
+    "upright": {"love": "optimistic about love life, healing from past wounds", "career": "positivity brings career rewards, high hopes about job", "finance": "reaching financial goals, remaining inspired"},
+    "inverted": {"love": "extreme self-criticism, loss of hope about romance, lack of confidence", "career": "lack of motivation, lack of enthusiasm, pessimism about work", "finance": "despair regarding financial situation"}}, 
+
+    {"name": "The Moon", 
+    "category": "Major Arcana", 
+    "upright": {"love": "complicated romance, uncertainty about love or relationship", "career": "uncertainty around career path, confusion at job, lack of information", "finance": "unclear around financial decisions, lacking financial knowledge"},
+    "inverted": {"love": "deception, fear and paranoia regarding love", "career": "clarity at work, sabotage, deception and trickery at workplace", "finance": "clarity about finances, deception regarding finances"}},
+
+    {"name": "The Sun", 
+    "category": "Major Arcana", 
+    "upright": {"love": "happiness and love in relationship, positivity is attractive, feeling radiant", "career": "enthusiastic and energetic at work, successful work projects", "finance": "strong financial situation"},
+    "inverted": {"love": "boredom, taking love for granted, being unable to see happiness in relationship", "career": "failure to appreciate work, over-confidence at work situations, unrealistic beliefs", "finance": "overly optimistic about finances, hardships are only temporary"}},
+
+    {"name": "Judgement", 
+    "category": "Major Arcana", 
+    "upright": {"love": "renewal of love, making adjustments in relationship", "career": "finding career purpose, accountability at work", "finance": "reflecting on financial habits, reflecting on your values"},
+    "inverted": {"love": "blaming your partner, denial about love life", "career": "self-doubt at work, failure to take responsibility for mistakes", "finance": "failure to learn financial lessons, too self-denying"}},
+
+    {"name": "The World", 
+    "category": "Major Arcana", 
+    "upright": {"love": "feeling loved and grateful, fulfilling romantic life", "career": "completing career goal, fulfilling career path", "finance": "completing financial goal"},
+    "inverted": {"love": "missing something in love life, taking partner for granted", "career": "false measure of success, missing piece in career", "finance": "close to completing financial goal, unfulfilled despite financial comfort"}},
+
+    {"name": "Ace of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "excitement and passion in love, flirtation, romance, attraction", "career": "inspired at work, creative projects, passion for work", "finance": "financial relief, end to struggles, inspiration in making money"},
+    "inverted": {"love": "short-term passionate love affair, lack of excitement in love", "career": "lacking inspiration at work, feeling uncreative, lack of progress", "finance": "risky financial decisions, financial losses"}},
+
+    {"name": "Two of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "setting romantic goals, making plans in love, planning future together", "career": "planning your career, taking first steps in your career, envisioning dreams", "finance": "planning your long term financial future, laying foundations"},
+    "inverted": {"love": "failed romantic plans, lack of long term prospects or ideas of future", "career": "unexpected obstacles in career, overanalyzing, not taking action on plans", "finance": "lack of control regarding finances, failed financial planning"}},
+
+    {"name": "Three of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "next stage in relationship, romantic momentum, creating lasting foundation", "career": "new horizons in career, expanding your career options", "finance": "expanding views about finances, expanding financial goals"},
+    "inverted": {"love": "frustrations or obstacles in love, learning to compromise in love", "career": "obstacles in career path, lack of growth and challenge, feeling caged", "finance": "delays in achieving financial goals"}},
+
+    {"name": "Four of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "weddings, engagements, gatherings and public celebrations of love", "career": "feeling supported by colleagues, office parties, bonding with colleagues", "finance": "financially supporting loved ones, financial stability and comfort"},
+    "inverted": {"love": "conflict between family, community and love life, fear of public commitment", "career": "workplace conflicts between colleagues, office conflicts", "finance": "unstable finances, supporting family or loved ones can be a burden"}},
+
+    {"name": "Five of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "competition between suitors, conflict between lovers, playful banter", "career": "competition between colleagues, competitive work environment, conflict", "finance": "financial instability, conflicts about money"},
+    "inverted": {"love": "avoiding conflict, trying to keep peace in relationship, resolution", "career": "competition or conflict at workplace is resolved, avoiding work conflict", "finance": "peace after financial stress, escalation in conflicts about money"}},
+
+    {"name": "Six of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "success at love, fulfilling a relationship goal", "career": "career achievement, project completion, being rewarded", "finance": "financial stability, financial rewards"},
+    "inverted": {"love": "feeling unloved, feeling neglected, being overlooked", "career": "failed work project, unrewarded work, unmet career goal", "finance": "financial loss, failed investment, bad purchase"}},
+
+    {"name": "Seven of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "setting boundaries in relationship, fighting for romance", "career": "fighting off competition, defending your position, facing challengers", "finance": "protecting your financial stability, long term success"},
+    "inverted": {"love": "defensiveness, denial in love, a breakup from external pressure", "career": "failure to hold your ground, being overcome by competition", "finance": "some loss of savings, overconfidence leading to loss"}},
+
+    {"name": "Eight of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "romantic life picking up pace, excitement, surprises in love", "career": "quick progress at work, travelling for work, motivation, impact", "finance": "quick movement of money, cash coming in and going out"},
+    "inverted": {"love": "misunderstandings, delays in love, hectic pace, confusion", "career": "career stagnation, lost chances, overwhelmed by job", "finance": "slow flow of money, lack of patience for financial growth"}},
+
+    {"name": "Nine of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "love requiring hard work, love isn't easy, self-improvement", "career": "exhaustion from work, project nearly complete, feeling drained", "finance": "financial pressure, economic duress, temporary pressure"},
+    "inverted": {"love": "relationship failing despite putting in work, one partner putting in work", "career": "feeling drained and fatigued at work, struggling at work, nearing burnout", "finance": "avoiding financial pressure, trying to escape financial stress"}},
+
+    {"name": "Ten of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "heavy burden of love, love creates responsibility, stress creates issues in relationship", "career": "being overworked, work burdens being carried alone, needing help from colleagues", "finance": "financial burden, large unavoidable expenses, struggling daily"},
+    "inverted": {"love": "failure to share burdens with partner, finding emotional support from partner", "career": "relief from work burdens, finding support, delegating tasks, burn out", "finance": "relief from financial burden, finding assistance, deeper economic trouble"}},
+
+    {"name": "Page of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "possibilities and adventures in love, lively lover, fleeting romance", "career": "new position or project, taking risks at work, eagerness for challenge", "finance": "small financial gifts, temptations regarding spending"},
+    "inverted": {"love": "failure to commit, unreliable lover, aimless search for love", "career": "boredom with job, lack of vigor in pursuing career goals", "finance": "financial instability, overspending in past creating problems now"}},
+
+    {"name": "Knight of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "fearless, courageous lover, difficult to commit, rash, erratic relationship", "career": "passion and energy for work, brave decisions, new business favored", "finance": "sudden influx of money, using finances for travel, expanding horizons"},
+    "inverted": {"love": "running from commitment, impatience, unstable relationship", "career": "lacking direction in career, rushing through jobs, unreliable work", "finance": "overconfident about money, wasting funds, financial loss"}},
+
+    {"name": "Queen of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "independent, cheerful and confident lover, openness in relationship", "career": "determination and passion at work, inspiring or leading others", "finance": "strong financial decisions, confidence making financial decisions"},
+    "inverted": {"love": "selfish and demanding lover, jealousy, dominating lover, arguments", "career": "lack of motivation in career, selfish or jealous colleague", "finance": "bad financial decisions, greediness, overspending"}},
+
+    {"name": "King of Wands", 
+    "category": "Wands", 
+    "upright": {"love": "energetic, charismatic lover, taking the lead in love", "career": "achievement in career, respected position, mentorship", "finance": "financial stability, financial wisdom, generosity to others"},
+    "inverted": {"love": "", "career": "", "finance": ""}},
+
+    {"name": "Ace of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "steady loving relationship, abundance and prosperity in love, privileged couple", "career": "new work or business opportunities", "finance": "investing in future, new financial journey"},
+    "inverted": {"love": "loss of emotional stability, money issues in relationship", "career": "missed work opportunities, invested in wrong career", "finance": "scarcity, bad financial decisions"}}, 
+
+    {"name": "Two of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "balancing love / work / family, adapting to changes in love", "career": "juggling work projects, being resourceful at work", "finance": "tight finances, prioritizing bills, unstable finances"},
+    "inverted": {"love": "neglecting love, neglecting partner, not focused on love", "career": "being overworked, too many projects, things falling through cracks", "finance": "too many bills, can't keep up with payments"}},
+
+    {"name": "Three of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "doing projects with partner, feeling like a team, love at work / creative hobbies", "career": "working as team, collaborates with others, diverse skill sets and opinions", "finance": "learning about finances, getting advice on creating budget"},
+    "inverted": {"love": "conflicts in practical life, not being a good teammate in love", "career": "stress and frustration amongst colleagues, office politics", "finance": "avoiding learning about finances"}},
+
+    {"name": "Four of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "clingy lover, jealousy, feeling insecure, holding onto past", "career": "impostor syndrome, paranoia, avoiding collaboration", "finance": "stable finances, frugality, saving for future"},
+    "inverted": {"love": "overcoming jealousy, release from past lovers", "career": "generosity with colleagues, risky work decisions", "finance": "spending, donating, sharing resources"}},
+
+    {"name": "Five of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "isolation, loneliness, feeling distant, depression", "career": "work hardships, isolation from colleagues, outcast", "finance": "poverty, debt, bankruptcy, tight finances"},
+    "inverted": {"love": "improved love life, opening yourself to others", "career": "friendship at work, end of work hardships", "finance": "recovery from loss, saving, paying debts"}},
+
+    {"name": "Six of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "supportive relationship, generous lover", "career": "mentor, being a valued employee, investors", "finance": "financial support, donations"},
+    "inverted": {"love": "unfair power dynamics, taking advantage of love, controlling lover", "career": "hidden agendas, quid pro quo, sucking up to bosses", "finance": "lack of help, unfair loans, gifts with strings attached, resentment"}},
+
+    {"name": "Seven of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "putting work into love, friendship turns to romance", "career": "progressing to goals, evaluating progress", "finance": "putting in effort to finances, slow and steady investment"},
+    "inverted": {"love": "no results from love, can't force love", "career": "no results in work efforts, stagnant career", "finance": "losses, little financial compensation"}},
+
+    {"name": "Eight of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "achieved relationship goal, cultivating relationship", "career": "dedication, promotion, developing skills, showing talent", "finance": "financial rewards, becoming financially independent"},
+    "inverted": {"love": "not putting effort into love, neglecting relationship", "career": "little motivation, tedious job, low quality work", "finance": "careless about finances, overspending"}},
+
+    {"name": "Nine of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "high standards for partners, balance of love and independence", "career": "achievement in career, hard work paid off, success", "finance": "financial abundance, property purchases"},
+    "inverted": {"love": "fear of giving up independence, being guarded in love", "career": "desire to succeed without work, no work-life balance", "finance": "overspending, impulse purchases, desire for easy money"}},
+
+    {"name": "Ten of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "financially stable couple, relationship milestones, family approval", "career": "creating lasting career, stable future", "finance": "windfall, inheritance, developing stable financial future"},
+    "inverted": {"love": "conflict between love and family, outside opinions of love", "career": "company dissolution, debt, unstable career", "finance": "debt, financial loss, family disputes over money"}},
+
+    {"name": "Page of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "quiet, steady, diligent lover, dedication in relationship", "career": "making plans to achieve ambitions, big dreams, training", "finance": "setting good habits with finances"},
+    "inverted": {"love": "lack of commitment, boredom, monotonous relationship", "career": "avoiding work, lazy, unmotivated, wants success without work", "finance": "financial insecurity, financial irresponsible"}},
+
+    {"name": "Knight of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "loyal but stubborn lover, steady, secure relationship", "career": "focus and drive, slow and steady work, hard work", "finance": "slow and steady financial growth, conservation, frugality"},
+    "inverted": {"love": "dull relationship, homebody, neglecting relationship", "career": "little ambition, too much ambition, workaholic, obsessed with work", "finance": "wasting money, impulsive purchases, risky purchases"}},
+
+    {"name": "Queen of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "stability, abundance, nurturing, kind partner, domestic comfort", "career": "talented business person, mentor, colleague", "finance": "financial security, responsible with finances, good deals"},
+    "inverted": {"love": "shallow and selfish partner, relationship for wrong reasons", "career": "bad business partner, unreliable or jealous colleague", "finance": "money mismanagement, hoarding"}},
+
+    {"name": "King of Pentacles", 
+    "category": "Pentacles", 
+    "upright": {"love": "generous provider, serious relationship, emotionally and financially secure", "career": "success, encouraging mentor, referrals, good reputation", "finance": "financial milestone, saving, investing, supporting loved ones, indulging"},
+    "inverted": {"love": "materialistic, greedy lover, being used, controlling", "career": "poor reputation, unsuccessful at work, being discouraged", "finance": "financial loss, debt, poor financial decisions, stinginess"}},
+
+    {"name": "Ace of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "attracted to discussion, facing problems honestly, communication", "career": "stimulating work environment, clear communication, focus", "finance": "think rationally, avoid emotional decisions with money"},
+    "inverted": {"love": "failure to communicate, clashing perspectives, painful words", "career": "failure to communicate, unable to express thoughts clearly, boredom", "finance": "double check finances, statements or legal documents"}},
+
+    {"name": "Two of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "choosing between lovers, choosing between love / family / work", "career": "choosing between career paths, conflicts at work, taking sides", "finance": "avoiding financial decisions, unclear finances"},
+    "inverted": {"love": "no suitor is right for you, can’t prioritize love / family / work", "career": "choices with no winner, stressful decisions", "finance": "realizing truth, accepting financial position"}},
+
+    {"name": "Three of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "breakup, argument, conflict, separation, sadness and tears", "career": "conflicts at work, job loss, hurt feelings at work, feeling hopeless", "finance": "loss of assets, division of assets after break up"},
+    "inverted": {"love": "forgiving one another, moving on after pain, separation", "career": "putting conflicts behind, developing better processes", "finance": "building savings, finding stability, severe grief about finances"}},
+
+    {"name": "Four of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "withdrawing from love life, alone time, taking a break", "career": "taking a vacation, mental health day, rest, self-care", "finance": "anxiety about finances, avoid overthinking about money"},
+    "inverted": {"love": "rejection from pressuring lover, reigniting passions", "career": "refreshed from vacation or time off, burning out", "finance": "not accepting support, recovery from financial pressure"}},
+
+    {"name": "Five of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "tension, conflict, arguments, fights, irritability, wanting to be right", "career": "workplace bully, intimidation, defensive attitudes, hostility", "finance": "conflicts about money, being taken advantage of"},
+    "inverted": {"love": "getting back together, forgiveness, breakup", "career": "compromises, open dialogue, sabotage", "finance": "loosening of financial tension, relief"}},
+
+    {"name": "Six of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "moving on from relationship, reconciling after fight", "career": "leaving stressful workplace, moving to new role", "finance": "finding material stability again, learned lessons"},
+    "inverted": {"love": "can't move on, can't let go, haunted", "career": "creating conflicts, self-sabotage, trapped at job", "finance": "avoiding dealing with finances"}},
+
+    {"name": "Seven of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "lies and deception, affair, sparing feelings, feeling suspicious", "career": "gossip, sabotage, jealousy at work, working strategically", "finance": "shady business deals, fraud, theft, scams"},
+    "inverted": {"love": "lies revealed, end of playing games, dropping pretension", "career": "liars exposed, consequences of actions, changing approach", "finance": "consequences of dishonesty in finances"}},
+
+    {"name": "Eight of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "feeling trapped, suffocated, smothered, passive in love life", "career": "dependence on job, can't change careers, fear of job changes", "finance": "anxiety about money, can't see financial opportunity"},
+    "inverted": {"love": "clearer perspective of relationship, active role in love life", "career": "new job to reach potential, freedom from anxiety, continued struggle", "finance": "lessened anxiety, intensified anxiety, fears clouding truth"}},
+
+    {"name": "Nine of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "not trusting partner, suspicious of partner, regret from past", "career": "anxiety, paranoia, stress from work, no coping mechanisms", "finance": "panic about finances, all-consuming worries, feeling deprived"},
+    "inverted": {"love": "getting help from partner, alleviating stress by sharing", "career": "clarity about work, finding peace, stresses becoming real", "finance": "clarity about finances, peace, poverty, lack of resources"}},
+
+    {"name": "Ten of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "breakup, separation, sadness, grief, pain, infidelity", "career": "loss of job, office politics, breakdown from stress, burnout", "finance": "financial loss, failed investment"},
+    "inverted": {"love": "healing from past, putting relationship back together", "career": "changed jobs, found less stressful work", "finance": "avoided financial ruin or bankruptcy"}},
+
+    {"name": "Page of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "intellectual relationship, lack of emotional intimacy", "career": "ambitious, intelligent person, new career, education", "finance": "financial curiosity, ideas for making money"},
+    "inverted": {"love": "argumentative, defensive partner, failure to communicate", "career": "job-hopping, unsure about future career, office gossip", "finance": "overanalyzing finances, research but no action"}},
+
+    {"name": "Knight of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "fears about intimacy, easily bored partner, decisive action", "career": "getting things done, focus on career, efficiency, making big moves", "finance": "focus on financial goals, taking action on financial goals"},
+    "inverted": {"love": "aggressive partner, bullying, abuse, intense arguments", "career": "ruthless or vicious at work, arrogance, intimidation", "finance": "fraud, scams, coercion, shady financial deals"}},
+
+    {"name": "Queen of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "picky about lovers, independent partner, boundaries", "career": "constructive criticism, wise guidance, respect in field", "finance": "acting with logic and reason, financial clarity"},
+    "inverted": {"love": "trauma, toxic relationship, manipulation, cruelty", "career": "cruel coworker, excessive negativity, poor communication", "finance": "financial confusion, failure to make logical financial decisions"}},
+
+    {"name": "King of Swords", 
+    "category": "Swords", 
+    "upright": {"love": "high standards for love, controlled emotions", "career": "stern but righteous mentor, challenged to do your best", "finance": "being disciplined with finances, acting logically"},
+    "inverted": {"love": "selfish, abusive lover, low standards for love", "career": "dominating, power-hungry colleague, irrational work decisions", "finance": "irrational financial decisions, lack of financial discipline"}},
+
+    {"name": "Ace of Cups", "category": "Cups", 
+    "upright": {"love": "new romance, friendship, next level in relationship, deeper intimacy", "career": "friendly relations at work, new emotions about job, jolt of creativity", "finance": "financial assistance, happy financial news, creativity in earning money"},
+    "inverted": {"love": "sadness, separation, vulnerability, insecurity in the way of love", "career": "feeling unmotivated and bored at job, unfriendly colleagues", "finance": "disappointing news, frustration and sadness regarding finances"}},
+
+    {"name": "Two of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "starting a relationship, mutually beneficial relationship, working together as a team", "career": "good relationships with colleagues, helpful business partnership", "finance": "balanced finances, financial security, not financially stressed"},
+    "inverted": {"love": "relationship imbalance, codependency, uneven power dynamics", "career": "bad business partnerships, tension and conflict with colleagues", "finance": "spending more than you are earning, going over budget"}},
+
+    {"name": "Three of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "friendship turning to romance, social gatherings leading to romance", "career": "planning a celebration at work, happy and joyous office environment", "finance": "spending on social life, financial stability, reaching financial milestone"},
+    "inverted": {"love": "short but exciting romance, third party coming in between you", "career": "work events not going as planned, destructive office environment", "finance": "over spending on social gatherings, giving beyond your means"}},
+
+    {"name": "Four of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "bored with love life, lack of excitement in relationship", "career": "bored with job, feeling unhappy with job or career, lack of progress", "finance": "feeling disillusioned with money, envious of others"},
+    "inverted": {"love": "being more active in love, new understanding of love", "career": "new inspiration or creativity, realizations about career, adjustments", "finance": "positive approach to finances, willpower to achieve financial goals"}},
+
+    {"name": "Five of Cups", "category": "Cups", 
+    "upright": {"love": "grieving break up, time of tension and sadness in relationship", "career": "taking a step backward in your career, job loss, business loss", "finance": "financial loss, still things left to salvage"},
+    "inverted": {"love": "moving on from past relationship, healing from old wounds", "career": "job loss leading to better position, healing from career misstep", "finance": "relief from financial loss, rebuilding financial security"}},
+
+    {"name": "Six of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "reconnecting with ex, reliving happy memories, healing after breakup", "career": "returning to previous work, not repeating past mistakes, learning career lessons", "finance": "moving back in with parents, financial gifts, sharing finances"},
+    "inverted": {"love": "unable to move on, clinging to past loves, failure to live in present", "career": "leaving comfort of job, staying in stale job, repeating negative patterns", "finance": "financially independent, leaving parental home"}},
+
+    {"name": "Seven of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "choosing between lovers, be cautious about romantic decisions", "career": "many career options, make a choice and stick to it", "finance": "several financial opportunities, caution about financial choices"},
+    "inverted": {"love": "chaotic and confusing love life, avoiding romantic decisions, clarity about love", "career": "lack of career options, missed opportunities, creating clear career vision", "finance": "financial clarity, distraction from financial goals, lack of financial goals"}},
+
+    {"name": "Eight of Cups", "category": "Cups", 
+    "upright": {"love": "leaving unhappy relationship, abandonment issues", "career": "leaving unfulfilling job, taking vacation, escapism", "finance": "choosing happiness over financial security"},
+    "inverted": {"love": "staying in a bad relationship, fear of being alone", "career": "accepting unfulfilling job, fear of change", "finance": "choosing financial security over happiness"}},
+
+    {"name": "Nine of Cups",
+    "category": "Cups", 
+    "upright": {"love": "appreciating current love life, positivity leading to romance, cheerful romance", "career": "satisfying career, recognition and respect at work, avoid being overconfident", "finance": "abundance, financial comfort, financial security, material rewards"},
+    "inverted": {"love": "lack of deeper connection, superficial relationship, inner work needed", "career": "dream job not what you expected, career expectations not met", "finance": "failed financial goals, no returns on investing your resources"}},
+
+    {"name": "Ten of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "commitment, taking next step in relationship, long term stability, lasting relationship", "career": "feeling of belonging at work, camaraderie between colleagues, fulfilling and supportive job", "finance": "financial stability and security, a feeling of having enough"},
+    "inverted": {"love": "meddling relatives, a short fling, external forces affecting relationship", "career": "hostile workplace, tensions between colleagues, isolation at workplace", "finance": "arguments with family over finances, financial instability"}},
+
+    {"name": "Page of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "fresh perspective on relationship, awe and wonder at love and romance", "career": "finding a creative outlet at work, daydreams about career paths", "finance": "unrealistic financial goals, daydreams without putting in effort"},
+    "inverted": {"love": "a shy, vulnerable partner, emotionally immature partner, insecurity in romance", "career": "emotional vulnerability at work, insecurity at work, creative blocks", "finance": "being in denial about finances, avoiding financial decisions"}},
+
+    {"name": "Knight of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "romance, attraction, flirtation, being in love with love, unrealistic expectations of love", "career": "diplomacy at work, tactfulness creates better team cohesion, creative solutions", "finance": "mediating disputes about finances, using creativity to achieve financial goals"},
+    "inverted": {"love": "avoiding conflict in love, passive aggressive partner, quickly changing feelings, false appearances", "career": "tensions and moodiness at work, avoiding work confrontation", "finance": "avoiding financial decisions, financial disappointment"}},
+
+    {"name": "Queen of Cups", "category": "Cups", 
+    "upright": {"love": "caring and supportive nature brings suitors, deepening existing relationships", "career": "taking the role of carer at work, seeking out support and compassion at work", "finance": "using resources to care for others, giving, charity, generosity"},
+    "inverted": {"love": "a dependent or clingy lover, putting more effort in than partner, overly-sensitive lover", "career": "emotional exhaustion at work, neglecting your own emotional health for job", "finance": "being too generous, neglecting own financial health for others"}},
+
+    {"name": "King of Cups", 
+    "category": "Cups", 
+    "upright": {"love": "using head and heart in love, a compassionate but calming partner", "career": "balancing emotional, practical and logical needs, wisdom leads to respect and admiration", "finance": "financial stability, being realistic but hopeful about finances"},
+    "inverted": {"love": "manipulation, deceit and selfishness in love, being lead on or used, not putting in effort", "career": "selfishness at work, staying at job despite lack of emotional fulfillment", "finance": "out of control spending, bad financial judgement, emotional financial choices"}}
+    
+]
